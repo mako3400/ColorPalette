@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ColorPalette</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="generate">Generate</string>
+    <string name="save">Save</string>
+    <string name="new_color_created">New color created: %s</string>
+    <string name="edit_color">Edit Color</string>
+    <string name="undo">Undo</string>
+</resources>

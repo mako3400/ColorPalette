@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="pl.eduweb.colorpalette.PaletteActivity">
+
+    <item
+        android:id="@+id/action_add"
+        android:orderInCategory="90"
+        android:title="Add"
+        android:icon="@mipmap/ic_action_add"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        android:title="Clear all"
+        app:showAsAction="never" />
+
+</menu>
